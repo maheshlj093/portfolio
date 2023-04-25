@@ -14,7 +14,7 @@ function Navbar() {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <NavLink className={({ isActive }) =>isActive ? "nav-link text-danger fw-bold active" : "fw-bold nav-link"} aria-current="page" to="/TechGuide">Home</NavLink>
+          <NavLink className={({ isActive }) =>isActive ? "nav-link text-danger fw-bold active" : "fw-bold nav-link"} aria-current="page" to="/Portfolio">Home</NavLink>
         </li>
         <li className="nav-item">
           <NavLink className={({ isActive }) =>isActive ? "nav-link text-danger fw-bold active" : "fw-bold nav-link"} to="/about">About</NavLink>
