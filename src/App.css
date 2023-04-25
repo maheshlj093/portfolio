@@ -10,6 +10,12 @@ section{
   font-weight: bold;
 
 }
+.masthead-heading span{
+  color: coral;
+}
+.masthead-subheading span{
+  color: rgb(255, 196, 0);
+}
 .underline{
   width: 6rem;
   height: 4px;
