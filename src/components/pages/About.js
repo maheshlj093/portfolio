@@ -15,13 +15,32 @@ function About() {
           </div>
           <div className="row mt-5">
             <div className="col-12">
-              <p className='font-normal'>Hello and welcome to my portfolio! I am a web developer with over 1+ years of experience in the industry. My expertise lies in front-end web development with HTML, CSS, JavaScript, and popular frameworks such as Bootstrap and Materialize CSS. Additionally, I have experience in back-end development with PHP and MySQL.
+              <p className='font-normal'>
+    Hello, I'm [Your Name], a passionate and driven software engineer with 1.6 years of hands-on experience in the ever-evolving world of web development. I thrive on turning ideas into innovative solutions and crafting digital experiences that leave a lasting impact.
 
-                I have worked extensively with popular JavaScript frameworks such as AngularJS and ReactJS, and I am proficient in jQuery and Ajax for efficient and dynamic web development. I have a passion for clean and efficient code, responsive design, and creating seamless user experiences.
+My Expertise
 
-                Throughout my career, I have contributed to various web development projects that demonstrate my proficiency with the aforementioned technologies. I strive to stay up-to-date with the latest industry trends and technologies to deliver the best solutions for my clients.
+Languages: PHP, HTML, CSS, JavaScript
+Frameworks: AngularJS 1.0, jQuery
+Frontend: HTML5, CSS3, Bootstrap, Materialize CSS
+Backend: PHP, MySQL
+Web Technologies: AJAX, API Creation
+What I Do
 
-                Thank you for taking the time to view my portfolio. Please feel free to contact me for any inquiries or opportunities.</p>
+I'm currently working with a focus on:
+
+PHP: Building robust server-side applications and dynamic websites.
+HTML, CSS, and JavaScript: Crafting responsive and user-friendly frontend interfaces.
+AngularJS 1.0: Creating dynamic and data-driven web applications.
+jQuery: Enhancing user interactions and functionality.
+MySQL: Designing efficient databases to store and retrieve data.
+Bootstrap and Materialize CSS: Ensuring sleek and modern UI/UX.
+API Creation: Developing APIs for seamless data exchange.
+AJAX: Enabling asynchronous communication for a smoother user experience.
+Why Me?
+
+With my passion for coding, attention to detail, and commitment to staying up-to-date with the latest trends and technologies, I am dedicated to delivering high-quality solutions that exceed expectations. Whether it's building a responsive website, optimizing database performance, or creating a seamless user experience, I'm always up for the challenge.
+    </p>
             </div>
           </div>
         </div>
