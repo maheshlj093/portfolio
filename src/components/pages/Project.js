@@ -20,6 +20,8 @@ function Project() {
           <a href="https://techsparsha.in/dev/SVE/" className="list-group-item list-group-item-action bg-warning text-white">SolveEasy</a>
           <a href="https://techsparsha.in/dev/TS/TechSparsha3/" className="list-group-item list-group-item-action bg-secondary text-white">TECHSPARSHA</a>
           <a href="https://techsparsha.in/dev/ASDsite/" className="list-group-item list-group-item-action bg-danger text-white">ASD</a>
+          <a href="https://techsparsha.in/dev/CiMi" className="list-group-item list-group-item-action bg-danger text-white">CiMi</a>
+          <a href="https://techsparsha.in/dev/CiMi/field" className="list-group-item list-group-item-action bg-danger text-white">Smart EMS</a>
         </div>
       </div>
     </div>
